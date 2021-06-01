@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/21 23:16:32.000.766,=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/21 23:24:02.000.722,=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/26 17:02:04.000.685,=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/26 17:08:26.000.756,=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/05 14:04:46.000.084,=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/06 17:20:56.000.290,=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/06 17:54:30.000.768,C:\Users\Daniel\Desktop\Jogo da velha\Projetos\uJogoVelha.dfm=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/03/06 17:54:30.000.768,C:\Users\Daniel\Desktop\Jogo da velha\Projetos\uJogoVelha.pas=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/06 17:54:42.000.614,C:\Users\Daniel\Desktop\Jogo da velha\Projetos\pJogoVelha.dproj=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
